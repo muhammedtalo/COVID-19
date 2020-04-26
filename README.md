@@ -7,6 +7,6 @@ X-ray images obtained from two different sources were used for the diagnosis of 
 
  ## Citation
  
- ##### Please see Please see the paper for the details. The paper is avaible [here](https://www.researchgate.net/publication/340935440_Automated_Detection_of_COVID-19_Cases_Using_Deep_Neural_Networks_with_X-ray_Images).
+ ##### Please see the paper for the details. The paper is avaible [here](https://www.researchgate.net/publication/340935440_Automated_Detection_of_COVID-19_Cases_Using_Deep_Neural_Networks_with_X-ray_Images).
  
 
