@@ -9,6 +9,6 @@ In this study, a deep learning [model](https://github.com/muhammedtalo/COVID-19/
  
  ##### The paper is avaible [here](https://www.researchgate.net/publication/340935440_Automated_Detection_of_COVID-19_Cases_Using_Deep_Neural_Networks_with_X-ray_Images).
  
- ##### The published version the article is now available online at:[https://doi.org/10.1016/j.compbiomed.2020.103792](https://doi.org/10.1016/j.compbiomed.2020.103792)
+ ##### The published version the article is now available online at: [https://doi.org/10.1016/j.compbiomed.2020.103792](https://doi.org/10.1016/j.compbiomed.2020.103792)
  
 
